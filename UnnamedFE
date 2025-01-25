@@ -1,0 +1,26 @@
+--[[
+   Credits:
+   MelonScripter - Converted and Aligned 
+   123jl123 - Creator of Void Boss
+   Emper - Reanimate creator
+   MyWorld - Optimization on reanimate
+
+   Main Hats:
+   [PAID] https://www.roblox.com/catalog/17270001635/Void-Backpack
+   [PAID] https://www.roblox.com/catalog/17269998373/Middle-Void-Block
+   [PAID] https://www.roblox.com/catalog/117186631495734/small-claw
+   [PAID] https://www.roblox.com/catalog/132770514241770/small-claw-2
+
+   Alternative hands:
+   [PAID] https://www.roblox.com/catalog/17269952801/Right-Void-Wall
+   [PAID] https://www.roblox.com/catalog/17269983359/Left-Void-Wall
+   
+   Optional torso:
+   [PAID] https://www.roblox.com/catalog/17270178857/Huge-Void-Backpack
+
+   Socials:
+   // https://x.com/MelonScripter
+   // https://www.youtube.com/@MelonScripter
+]]
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MelonsStuff/679dc6167ec854831759f495b970cc71/raw/9663b65e4df1fa491f1227aee8cbea43cbfe04d8/VoidBoss.lua"))()
